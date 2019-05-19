@@ -1,2 +1,2 @@
 # acronymlibraryservice
-# run project : mvn spring-boot:run
+# run project : ./mvnw spring-boot:run
